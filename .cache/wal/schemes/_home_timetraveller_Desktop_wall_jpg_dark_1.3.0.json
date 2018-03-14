@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/timetraveller/Desktop/wall.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0B17",
+        "foreground": "#e9e0e0",
+        "cursor": "#e9e0e0"
+    },
+    "colors": {
+        "color0": "#0E0B17",
+        "color1": "#A03646",
+        "color2": "#E63947",
+        "color3": "#A25967",
+        "color4": "#E3525F",
+        "color5": "#B57B84",
+        "color6": "#C19CA0",
+        "color7": "#e9e0e0",
+        "color8": "#ECECEC",
+        "color9": "#A03646",
+        "color10": "#E63947",
+        "color11": "#A25967",
+        "color12": "#E3525F",
+        "color13": "#B57B84",
+        "color14": "#C19CA0",
+        "color15": "#e9e0e0"
+    }
+}

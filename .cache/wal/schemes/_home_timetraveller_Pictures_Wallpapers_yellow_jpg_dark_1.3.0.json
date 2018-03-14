@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/timetraveller/Pictures/Wallpapers/yellow.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1f1a1b",
+        "foreground": "#ebe9e1",
+        "cursor": "#ebe9e1"
+    },
+    "colors": {
+        "color0": "#1f1a1b",
+        "color1": "#FDE26F",
+        "color2": "#446F92",
+        "color3": "#64B6C4",
+        "color4": "#CAB19C",
+        "color5": "#F3DD9D",
+        "color6": "#9BDEE2",
+        "color7": "#ebe9e1",
+        "color8": "#F8FBF4",
+        "color9": "#FDE26F",
+        "color10": "#446F92",
+        "color11": "#64B6C4",
+        "color12": "#CAB19C",
+        "color13": "#F3DD9D",
+        "color14": "#9BDEE2",
+        "color15": "#ebe9e1"
+    }
+}

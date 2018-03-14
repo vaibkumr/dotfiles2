@@ -1,0 +1,21 @@
+set $wallpaper /home/timetraveller/Pictures/Wallpapers/wall_fuu.jpg
+
+set $background #020204
+set $foreground #eee4ec
+
+set $color0 #020204
+set $color1 #966281
+set $color2 #6B87B5
+set $color3 #7696C6
+set $color4 #7DA1D2
+set $color5 #A7A6BC
+set $color6 #CED5E5
+set $color7 #eee4ec
+set $color8 #F2EEF5
+set $color9 #966281
+set $color10 #6B87B5
+set $color11 #7696C6
+set $color12 #7DA1D2
+set $color13 #A7A6BC
+set $color14 #CED5E5
+set $color15 #eee4ec
